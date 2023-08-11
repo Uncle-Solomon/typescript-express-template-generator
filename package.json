@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Generates a TypeScript Express project",
   "bin": {
-    "express-ts-gen": "./bin/express-ts-gen"
+    "typescript-express-gen": "./bin/typescript-express-gen"
   },
   "dependencies": {
     "path": "^0.12.7",
