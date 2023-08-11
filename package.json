@@ -1,6 +1,6 @@
 {
-  "name": "express-type-script-generator-ng",
-  "version": "1.0.0",
+  "name": "express-ts-gen-ng",
+  "version": "1.0.4",
   "description": "Generates a TypeScript Express project",
   "bin": {
     "typescript-express-gen": "./bin/typescript-express-gen"
